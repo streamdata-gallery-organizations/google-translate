@@ -11,10 +11,10 @@ description: Cloud Translation API provides a simple programmatic interface for 
   and language pairs.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-translate-hello-lead-2x.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Translate
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-translate/master/_listings/google-translate/apis.md
 specificationVersion: "0.14"
 apis:
